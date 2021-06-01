@@ -1,2 +1,2 @@
 # Traffic accidents
-Prediction of road traffic accident mortality on 2018 France traffic accidents data set
+Road Crash Lethality Prediction on Road Crash Data Set 2018.
